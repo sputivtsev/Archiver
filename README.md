@@ -1,4 +1,4 @@
 # Archiver
-Archiver, that can  create .zip files.
+Archiver, that can archive into .zip files and unzip.
 
 Project created via Command pattern
